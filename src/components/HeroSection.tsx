@@ -27,7 +27,7 @@ const HeroSection = () => {
           transition={{ delay: 0.4, duration: 0.7 }}
           className="text-4xl md:text-6xl lg:text-7xl font-serif font-bold text-primary-foreground leading-tight mb-6"
         >
-          Casa del Mar
+          Casa de Zham
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, y: 20 }}
