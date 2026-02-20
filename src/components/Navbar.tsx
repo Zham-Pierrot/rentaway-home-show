@@ -10,7 +10,7 @@ const Navbar = () => {
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 flex items-center justify-between px-6 md:px-12 py-4 bg-foreground/10 backdrop-blur-md">
       <span className="font-serif text-xl font-semibold text-primary-foreground tracking-wide">
-        Casa del Mar
+        Casa de Zham
       </span>
       <div className="hidden md:flex items-center gap-8">
         {navItems.map((item) => (
